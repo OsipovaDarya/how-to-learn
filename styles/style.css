@@ -23,6 +23,7 @@
   height: 32px;
   top: 30px;
   left: 64px;
+  background-repeat: no-repeat;
 }
 
 .logo_place_header {
@@ -293,11 +294,7 @@ flex-direction: column;
   flex-direction: column;
   justify-content: space-between;
   }
-  .logo{
-    width: 228px;
-    height: 32px;
-    background-repeat: no-repeat;
-  }
+  
   .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
   }
