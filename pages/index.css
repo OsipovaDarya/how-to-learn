@@ -1,6 +1,9 @@
 /* page */
 @import url(../blocks/page/page.css);
 
+/* normalize.css */
+@import url(../vendor/normalize.css);
+
 /* Logo */
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
