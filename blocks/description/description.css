@@ -1,0 +1,7 @@
+/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+.description {
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
