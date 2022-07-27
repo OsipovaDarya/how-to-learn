@@ -5,13 +5,10 @@
     margin-bottom: 0;
     color: #fff;
     text-decoration: none;
-    list-style: none;
     transition: 2s linear;
     }
 
-.footer__column-link:nth-of-type(3n) {
-    margin-bottom: 16px;
-} 
+
 .footer__column-link:hover {
     opacity: .3;
 }

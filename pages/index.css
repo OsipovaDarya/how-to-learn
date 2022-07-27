@@ -1,8 +1,8 @@
-/* page */
-@import url(../blocks/page/page.css);
-
 /* normalize.css */
 @import url(../vendor/normalize.css);
+
+/* page */
+@import url(../blocks/page/page.css);
 
 /* Logo */
 @import url(../blocks/logo/logo.css);
@@ -59,20 +59,20 @@
 @import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
-/* .kaufman__triangle */
+/* kaufman__triangle */
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
-/* .footer */
+/* footer */
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/__columns/content_/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/footer__columns.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__columns/content_/footer__column_content_info.css);
-@import url(../blocks/footer/__columns/content_/footer__column_content_social.css);
-@import url(../blocks/footer/__columns/__column-heading/footer__column-heading.css);
-@import url(../blocks/footer/__columns/__column-link/footer__column-link.css);
-@import url(../blocks/footer/__columns/__column-links/footer__column-links.css);
-@import url(../blocks/footer/__columns/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
 /* rotatiom */
 @import url(../blocks/rotation/rotation.css);
@@ -89,8 +89,8 @@
 
 /* video */
 @import url(../blocks/video/video.css);
-@import url(../blocks/video/__iframes.css);
-@import url(../blocks/video/__iframe.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
 
 /* oakley */
 @import url(../blocks/oakley/oakley.css);
